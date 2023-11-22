@@ -2,4 +2,4 @@ My database "Electronic Library" for the course work on the subject "Databases" 
 
 ## ER-diagram:
 
-![(library.png)]
+(library.png)
